@@ -2,4 +2,6 @@
     <string name="app_name">PopCorn_189029</string>
     <string name="welcomeDescription">Welcome to PopCorn Factory, home of the best series and movies. Just lay down, make some popcorn and enjoy!</string>
     <string name="btnGetIn">Ingresar</string>
+    <string name="bntBuySeat">Buy tickets</string>
+    <string name="tv_enjoyMovie">Enjoy your movie</string>
 </resources>
